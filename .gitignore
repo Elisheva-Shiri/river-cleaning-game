@@ -1,0 +1,11 @@
+# Python environment (recreate with: pip install -r requirements.txt)
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Not part of the game
+ignore/
+
+# Game art: not redistributed (see README)
+*.png
+*.jpg
